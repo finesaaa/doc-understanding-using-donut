@@ -1,0 +1,1 @@
+{'menu': [{'nm': 'APPLE CINNAMON PASTRY', 'cnt': '1', 'price': '22,000'}, {'nm': 'ROYAL CHEESE TART', 'cnt': '2', 'price': '32,000'}], 'total': {'total_price': '54,000', 'creditcardprice': '54,000'}}
