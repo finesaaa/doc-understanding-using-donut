@@ -1,0 +1,1 @@
+{'menu': [{'nm': 'Serbu 1', 'cnt': '2', 'price': '40.000'}, {'nm': 'Choco Peanut Bread', 'cnt': '2', 'price': '20.000'}], 'total': {'total_price': '60.000', 'cashprice': '60.000', 'changeprice': '0'}}
