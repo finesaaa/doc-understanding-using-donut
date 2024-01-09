@@ -1,1 +1,0 @@
-{'menu': {'nm': 'Hulk Topper Package', 'cnt': '1', 'price': '100.000'}, 'total': {'total_price': '100.000', 'cashprice': '100.000', 'changeprice': '0'}}

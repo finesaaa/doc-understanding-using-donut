@@ -1,1 +1,0 @@
-{'menu': {'nm': 'Sate Padang', 'cnt': '1', 'price': '25.000'}, 'total': {'total_price': '25.000', 'cashprice': '25.000', 'menuqty_cnt': '1'}}

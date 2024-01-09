@@ -1,1 +1,0 @@
-{'menu': {'nm': 'AIR MINERAL', 'price': '7,000'}, 'total': {'total_price': '7,000', 'cashprice': '7,000'}}
